@@ -1,7 +1,7 @@
 # OPTIMIZATION OF QUERY
 
 **NAME:** YAHYA A. G. ALSAEDI  
-**TIME:** 5:45 Hours  
+**TIME:** 4:00 Hours  
 **GITHUB:** YahyaAdnan  
 
 ---
